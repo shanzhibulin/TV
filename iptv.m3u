@@ -1,77 +1,375 @@
-央视,#genre#
-CCTV1,https://live.goodiptv.club/api/cqyx.php?id=cctv1HD
-CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
-CCTV2,https://live.goodiptv.club/api/cqyx.php?id=cctv2HD
-CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
-CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
-CCTV3,https://live.goodiptv.club/api/cqyx.php?id=cctv3HD
-CCTV4,https://live.goodiptv.club/api/cqyx.php?id=cctv4HD
-CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
-CCTV5,https://live.goodiptv.club/api/cqyx.php?id=cctv5HD
-CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-CCTV6,https://live.goodiptv.club/api/cqyx.php?id=cctv6HD
-CCTV7,https://live.goodiptv.club/api/cqyx.php?id=cctv7HD
-CCTV8,https://live.goodiptv.club/api/cqyx.php?id=cctv8HD
-CCTV8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
-CCTV9,https://live.goodiptv.club/api/cqyx.php?id=cctv9HD
-CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
-CCTV10,https://live.goodiptv.club/api/cqyx.php?id=cctv10HD
-CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
-CCTV11,https://live.goodiptv.club/api/cqyx.php?id=cctv11HD
-CCTV11,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3u8?
-CCTV12,https://live.goodiptv.club/api/cqyx.php?id=cctv12HD
-CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
-CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
-CCTV15,https://live.goodiptv.club/api/cqyx.php?id=cctv15HD
-CCTV16,https://live.goodiptv.club/api/cqyx.php?id=cctv16HD
-CCTV16,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8?$8M1080
-CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
-CCTV16 4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
-CCTV17,https://live.goodiptv.club/api/cqyx.php?id=cctv17HD
-CCTV5+,https://live.goodiptv.club/api/cqyx.php?id=cctv5SportHD
-CCTV4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
-CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
-
-地方,#genre#
-浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-湖南卫视,https://live.goodiptv.club/api/cqyx.php?id=hunanHD
-重庆卫视,https://live.goodiptv.club/api/cqyx.php?id=chongqingHD
-江苏卫视,https://live.goodiptv.club/api/cqyx.php?id=jiangsuHD
-江苏卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
-北京卫视,https://live.goodiptv.club/api/cqyx.php?id=beijingHD
-北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
-浙江卫视,https://live.goodiptv.club/api/cqyx.php?id=zhejiangHD
-东方卫视,https://live.goodiptv.club/api/cqyx.php?id=shanghaiHD
-深圳卫视,https://live.goodiptv.club/api/cqyx.php?id=shenzhenHD
-深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
-辽宁卫视,https://live.goodiptv.club/api/cqyx.php?id=liaoningHD
-天津卫视,https://live.goodiptv.club/api/cqyx.php?id=tianjinHD
-贵州卫视,https://live.goodiptv.club/api/cqyx.php?id=guizhouHD
-四川卫视,https://live.goodiptv.club/api/cqyx.php?id=sichuanHD
-东南卫视,https://live.goodiptv.club/api/cqyx.php?id=dongnanHD
-黑龙江卫视,https://live.goodiptv.club/api/cqyx.php?id=heilongjiangHD
-江西卫视,https://live.goodiptv.club/api/cqyx.php?id=jiangxiHD
-吉林卫视,https://live.goodiptv.club/api/cqyx.php?id=jilinHD
-广西卫视,https://live.goodiptv.club/api/cqyx.php?id=guangxiHD
-广东卫视,https://live.goodiptv.club/api/cqyx.php?id=guangdongHD
-东南卫视,https://live.goodiptv.club/api/cqyx.php?id=henanHD
-黑龙江卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
-河北卫视,http://event.pull.hebtv.com/jishi/weishipindao.m3u8
-云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
-青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
-延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
-凤凰资讯,http://111.20.40.166:80/PLTV/88888893/224/3221226546/index.m3u8
-凤凰资讯,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
-
-电影电视,#genre#
-第一剧场,https://live.goodiptv.club/api/cqyx.php?id=diyijuchangHD
-都市剧场,https://live.goodiptv.club/api/cqyx.php?id=dsjcHD
-动漫秀场,https://live.goodiptv.club/api/cqyx.php?id=dmxcHD
-风云剧场,https://live.goodiptv.club/api/cqyx.php?id=fyjcHD
-怀旧剧场,https://live.goodiptv.club/api/cqyx.php?id=hjjcHD
-风云音乐,https://live.goodiptv.club/api/cqyx.php?id=fyyyHD
-
-电影直播,#genre#
-周星驰,https://www.goodiptv.club/huya/11342412
-香港喜剧大全,https://www.goodiptv.club/huya/23865080
+#EXTM3U
+#EXTINF:-1 group-title="央视,#genre#",CCTV1
+https://live.goodiptv.club/api/cqyx.php?id=cctv1HD
+#EXTINF:-1 group-title="央视,#genre#",CCTV1
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+#EXTINF:-1 group-title="央视,#genre#",CCTV1
+http://221.2.36.34:8888/newlive/live/hls/2/live.m3u8
+#EXTINF:-1 group-title="央视,#genre#",CCTV1
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
+#EXTINF:-1 group-title="央视,#genre#",CCTV1
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
+#EXTINF:-1 group-title="",CCTV2
+https://live.goodiptv.club/api/cqyx.php?id=cctv2HD
+#EXTINF:-1 group-title="",CCTV2
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+#EXTINF:-1 group-title="",CCTV2
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
+#EXTINF:-1 group-title="",CCTV2
+http://221.2.36.34:8888/newlive/live/hls/3/live.m3u8
+#EXTINF:-1 group-title="",CCTV2
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
+#EXTINF:-1 group-title="",CCTV2
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
+#EXTINF:-1 group-title="",CCTV3
+https://live.goodiptv.club/api/cqyx.php?id=cctv3HD
+#EXTINF:-1 group-title="",CCTV3
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
+#EXTINF:-1 group-title="",CCTV4
+https://live.goodiptv.club/api/cqyx.php?id=cctv4HD
+#EXTINF:-1 group-title="",CCTV4
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+#EXTINF:-1 group-title="",CCTV4
+http://221.2.36.34:8888/newlive/live/hls/5/live.m3u8
+#EXTINF:-1 group-title="",CCTV4
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
+#EXTINF:-1 group-title="",CCTV5
+https://live.goodiptv.club/api/cqyx.php?id=cctv5HD
+#EXTINF:-1 group-title="",CCTV5
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+#EXTINF:-1 group-title="",CCTV5
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
+#EXTINF:-1 group-title="",CCTV6
+https://live.goodiptv.club/api/cqyx.php?id=cctv6HD
+#EXTINF:-1 group-title="",CCTV6
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
+#EXTINF:-1 group-title="",CCTV7
+https://live.goodiptv.club/api/cqyx.php?id=cctv7HD
+#EXTINF:-1 group-title="",CCTV7
+http://221.2.36.34:8888/newlive/live/hls/9/live.m3u8
+#EXTINF:-1 group-title="",CCTV7
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
+#EXTINF:-1 group-title="",CCTV8
+https://live.goodiptv.club/api/cqyx.php?id=cctv8HD
+#EXTINF:-1 group-title="",CCTV8
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
+#EXTINF:-1 group-title="",CCTV8
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/1.m3u8
+#EXTINF:-1 group-title="",CCTV8
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
+#EXTINF:-1 group-title="",CCTV8
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/1.m3u8
+#EXTINF:-1 group-title="",CCTV8
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
+#EXTINF:-1 group-title="",CCTV9
+https://live.goodiptv.club/api/cqyx.php?id=cctv9HD
+#EXTINF:-1 group-title="",CCTV9
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+#EXTINF:-1 group-title="",CCTV9
+http://221.2.36.34:8888/newlive/live/hls/11/live.m3u8
+#EXTINF:-1 group-title="",CCTV9
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
+#EXTINF:-1 group-title="",CCTV9
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
+#EXTINF:-1 group-title="",CCTV10
+https://live.goodiptv.club/api/cqyx.php?id=cctv10HD
+#EXTINF:-1 group-title="",CCTV10
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+#EXTINF:-1 group-title="",CCTV10
+http://221.2.36.34:8888/newlive/live/hls/12/live.m3u8
+#EXTINF:-1 group-title="",CCTV10
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
+#EXTINF:-1 group-title="",CCTV11
+https://live.goodiptv.club/api/cqyx.php?id=cctv11HD
+#EXTINF:-1 group-title="",CCTV11
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3u8?
+#EXTINF:-1 group-title="",CCTV11
+http://221.2.36.34:8888/newlive/live/hls/13/live.m3u8
+#EXTINF:-1 group-title="",CCTV12
+https://live.goodiptv.club/api/cqyx.php?id=cctv12HD
+#EXTINF:-1 group-title="",CCTV13
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+#EXTINF:-1 group-title="",CCTV13
+http://221.2.36.34:8888/newlive/live/hls/15/live.m3u8
+#EXTINF:-1 group-title="",CCTV14
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+#EXTINF:-1 group-title="",CCTV14
+http://221.2.36.34:8888/newlive/live/hls/16/live.m3u8
+#EXTINF:-1 group-title="",CCTV15
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
+#EXTINF:-1 group-title="",CCTV15
+https://live.goodiptv.club/api/cqyx.php?id=cctv15HD
+#EXTINF:-1 group-title="",CCTV15
+http://221.2.36.34:8888/newlive/live/hls/17/live.m3u8
+#EXTINF:-1 group-title="",CCTV16
+https://live.goodiptv.club/api/cqyx.php?id=cctv16HD
+#EXTINF:-1 group-title="",CCTV16
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8?$8M1080
+#EXTINF:-1 group-title="",CCTV16
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?CONTENTID=00000110240349_1
+#EXTINF:-1 group-title="",CCTV16
+http://221.2.36.34:8888/newlive/live/hls/18/live.m3u8
+#EXTINF:-1 group-title="",CCTV16 4K
+https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
+#EXTINF:-1 group-title="",CCTV16 4K
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240349_1/encoder/0/playlist.m3u8?CONTENTID=00000110240389_1
+#EXTINF:-1 group-title="",CCTV17
+https://live.goodiptv.club/api/cqyx.php?id=cctv17HD
+#EXTINF:-1 group-title="",CCTV17
+http://221.2.36.34:8888/newlive/live/hls/19/live.m3u8
+#EXTINF:-1 group-title="",CCTV5+
+https://live.goodiptv.club/api/cqyx.php?id=cctv5SportHD
+#EXTINF:-1 group-title="",CCTV5+
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+#EXTINF:-1 group-title="",CCTV5+
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
+#EXTINF:-1 group-title="",CCTV5+
+http://221.2.36.34:8888/newlive/live/hls/7/live.m3u8
+#EXTINF:-1 group-title="",CCTV4K
+https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
+#EXTINF:-1 group-title="",CCTV4K
+http://r.jdshipin.com/krMB5
+#EXTINF:-1 group-title="",CCTV4K
+http://ainm.cc/a/play/php/cctv4k.php?id=4khd
+#EXTINF:-1 group-title="",CCTV4K
+http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
+#EXTINF:-1 group-title="地方,#genre#",浙江卫视
+http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 group-title="地方,#genre#",浙江卫视
+https://live.goodiptv.club/api/cqyx.php?id=zhejiangHD
+#EXTINF:-1 group-title="地方,#genre#",浙江卫视
+https://live.goodiptv.club/api/sxg.php?id=zjwsH265_4000
+#EXTINF:-1 group-title="",湖南卫视
+https://live.goodiptv.club/api/cqyx.php?id=hunanHD
+#EXTINF:-1 group-title="",湖南卫视
+https://live.goodiptv.club/api/sxg.php?id=hnwsH265_4000
+#EXTINF:-1 group-title="",湖南卫视
+http://222.71.90.218:8888/newlive/live/hls/22/live.m3u8
+#EXTINF:-1 group-title="",重庆卫视
+https://live.goodiptv.club/api/cqyx.php?id=chongqingHD
+#EXTINF:-1 group-title="",重庆卫视
+https://live.goodiptv.club/api/sxg.php?id=cqwsH265_4000
+#EXTINF:-1 group-title="",甘肃卫视
+https://live.goodiptv.club/api/sxg.php?id=gsws_4000
+#EXTINF:-1 group-title="",江苏卫视
+https://live.goodiptv.club/api/cqyx.php?id=jiangsuHD
+#EXTINF:-1 group-title="",江苏卫视
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
+#EXTINF:-1 group-title="",江苏卫视
+https://live.goodiptv.club/api/sxg.php?id=jswsH265_4000
+#EXTINF:-1 group-title="",北京卫视
+https://live.goodiptv.club/api/cqyx.php?id=beijingHD
+#EXTINF:-1 group-title="",北京卫视
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
+#EXTINF:-1 group-title="",北京卫视
+https://live.goodiptv.club/api/sxg.php?id=bjwsH265_4000
+#EXTINF:-1 group-title="",东方卫视
+https://live.goodiptv.club/api/cqyx.php?id=shanghaiHD
+#EXTINF:-1 group-title="",东方卫视
+https://live.goodiptv.club/api/sxg.php?id=dfwsH265_4000
+#EXTINF:-1 group-title="",深圳卫视
+https://live.goodiptv.club/api/cqyx.php?id=shenzhenHD
+#EXTINF:-1 group-title="",深圳卫视
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
+#EXTINF:-1 group-title="",深圳卫视
+http://222.71.90.218:8888/newlive/live/hls/24/live.m3u8
+#EXTINF:-1 group-title="",辽宁卫视
+https://live.goodiptv.club/api/cqyx.php?id=liaoningHD
+#EXTINF:-1 group-title="",辽宁卫视
+https://live.goodiptv.club/api/sxg.php?id=lnwsHDH264_4000
+#EXTINF:-1 group-title="",辽宁卫视
+http://222.71.90.218:8888/newlive/live/hls/31/live.m3u8
+#EXTINF:-1 group-title="",天津卫视
+https://live.goodiptv.club/api/cqyx.php?id=tianjinHD
+#EXTINF:-1 group-title="",天津卫视
+https://live.goodiptv.club/api/sxg.php?id=tjwsH265_4000
+#EXTINF:-1 group-title="",天津卫视
+http://222.71.90.218:8888/newlive/live/hls/32/live.m3u8
+#EXTINF:-1 group-title="",贵州卫视
+https://live.goodiptv.club/api/cqyx.php?id=guizhouHD
+#EXTINF:-1 group-title="",贵州卫视
+https://live.goodiptv.club/api/sxg.php?id=gzwsH265_4000
+#EXTINF:-1 group-title="",宁夏卫视
+http://222.71.90.218:8888/newlive/live/hls/42/live.m3u8
+#EXTINF:-1 group-title="",四川卫视
+https://live.goodiptv.club/api/cqyx.php?id=sichuanHD
+#EXTINF:-1 group-title="",四川卫视
+https://live.goodiptv.club/api/sxg.php?id=scwsH265_4000
+#EXTINF:-1 group-title="",东南卫视
+https://live.goodiptv.club/api/cqyx.php?id=dongnanHD
+#EXTINF:-1 group-title="",东南卫视
+http://222.71.90.218:8888/newlive/live/hls/29/live.m3u8
+#EXTINF:-1 group-title="",黑龙江卫视
+https://live.goodiptv.club/api/cqyx.php?id=heilongjiangHD
+#EXTINF:-1 group-title="",黑龙江卫视
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
+#EXTINF:-1 group-title="",黑龙江卫视
+https://live.goodiptv.club/api/sxg.php?id=hljwsH265_4000
+#EXTINF:-1 group-title="",黑龙江卫视
+http://222.71.90.218:8888/newlive/live/hls/25/live.m3u8
+#EXTINF:-1 group-title="",江西卫视
+https://live.goodiptv.club/api/cqyx.php?id=jiangxiHD
+#EXTINF:-1 group-title="",江西卫视
+https://live.goodiptv.club/api/sxg.php?id=jxwsH265_4000
+#EXTINF:-1 group-title="",江西卫视
+http://222.71.90.218:8888/newlive/live/hls/30/live.m3u8
+#EXTINF:-1 group-title="",吉林卫视
+https://live.goodiptv.club/api/cqyx.php?id=jilinHD
+#EXTINF:-1 group-title="",吉林卫视
+https://live.goodiptv.club/api/sxg.php?id=jlwsH265_4000
+#EXTINF:-1 group-title="",吉林卫视
+http://222.71.90.218:8888/newlive/live/hls/41/live.m3u8
+#EXTINF:-1 group-title="",广西卫视
+https://live.goodiptv.club/api/cqyx.php?id=guangxiHD
+#EXTINF:-1 group-title="",广西卫视
+https://live.goodiptv.club/api/sxg.php?id=gxws_4000
+#EXTINF:-1 group-title="",广西卫视
+http://222.71.90.218:8888/newlive/live/hls/40/live.m3u8
+#EXTINF:-1 group-title="",广东卫视
+https://live.goodiptv.club/api/cqyx.php?id=guangdongHD
+#EXTINF:-1 group-title="",广东卫视
+https://live.goodiptv.club/api/sxg.php?id=gdwsH265_4000
+#EXTINF:-1 group-title="",广东卫视
+http://222.71.90.218:8888/newlive/live/hls/23/live.m3u8
+#EXTINF:-1 group-title="",东南卫视
+https://live.goodiptv.club/api/cqyx.php?id=henanHD
+#EXTINF:-1 group-title="",东南卫视
+https://live.goodiptv.club/api/sxg.php?id=dnwsfjwsH265_4000
+#EXTINF:-1 group-title="",云南卫视
+http://222.71.90.218:8888/newlive/live/hls/39/live.m3u8
+#EXTINF:-1 group-title="",河南卫视
+https://live.goodiptv.club/api/sxg.php?id=hnws35_4000
+#EXTINF:-1 group-title="",河北卫视
+http://event.pull.hebtv.com/jishi/weishipindao.m3u8
+#EXTINF:-1 group-title="",湖北卫视
+https://live.goodiptv.club/api/sxg.php?id=hbwsH265_4000
+#EXTINF:-1 group-title="",湖北卫视
+http://222.71.90.218:8888/newlive/live/hls/27/live.m3u8
+#EXTINF:-1 group-title="",安徽卫视
+https://live.goodiptv.club/api/sxg.php?id=ahwsH265_4000
+#EXTINF:-1 group-title="",安徽卫视
+http://222.71.90.218:8888/newlive/live/hls/28/live.m3u8
+#EXTINF:-1 group-title="",山东卫视
+https://live.goodiptv.club/api/sxg.php?id=sdwsH265_4000
+#EXTINF:-1 group-title="",山东卫视
+http://222.71.90.218:8888/newlive/live/hls/26/live.m3u8
+#EXTINF:-1 group-title="",山西卫视
+https://live.goodiptv.club/api/sxg.php?id=sxws42_4000
+#EXTINF:-1 group-title="",陕西卫视
+https://live.goodiptv.club/api/sxg.php?id=sxws_4000
+#EXTINF:-1 group-title="",陕西卫视
+http://222.71.90.218:8888/newlive/live/hls/45/live.m3u8
+#EXTINF:-1 group-title="",云南卫视
+http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
+#EXTINF:-1 group-title="",云南卫视
+https://live.goodiptv.club/api/sxg.php?id=ynws_4000
+#EXTINF:-1 group-title="",青海卫视
+http://stream.qhbtv.com/qhws/sd/live.m3u8
+#EXTINF:-1 group-title="",青海卫视
+http://222.71.90.218:8888/newlive/live/hls/43/live.m3u8
+#EXTINF:-1 group-title="",内蒙古卫视
+https://live.goodiptv.club/api/sxg.php?id=nmgws_4000
+#EXTINF:-1 group-title="",内蒙古卫视
+http://222.71.90.218:8888/newlive/live/hls/46/live.m3u8
+#EXTINF:-1 group-title="",延边卫视
+http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
+#EXTINF:-1 group-title="",新疆卫视
+http://222.71.90.218:8888/newlive/live/hls/47/live.m3u8
+#EXTINF:-1 group-title="",凤凰资讯
+http://111.20.40.166:80/PLTV/88888893/224/3221226546/index.m3u8
+#EXTINF:-1 group-title="",凤凰资讯
+http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
+#EXTINF:-1 group-title="电影电视,#genre#",CHC动作电影
+http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
+#EXTINF:-1 group-title="电影电视,#genre#",CHC高清电影
+http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
+#EXTINF:-1 group-title="电影电视,#genre#",CHC家庭影院
+http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
+#EXTINF:-1 group-title="",第一剧场
+https://live.goodiptv.club/api/cqyx.php?id=diyijuchangHD
+#EXTINF:-1 group-title="",第一剧场
+http://111.20.40.160/PLTV/88888893/224/3221226959/index.m3u8
+#EXTINF:-1 group-title="",第一剧场
+http://111.20.40.162/PLTV/88888893/224/3221226959/index.m3u8
+#EXTINF:-1 group-title="",第一剧场
+http://111.20.40.163/PLTV/88888893/224/3221226959/index.m3u8
+#EXTINF:-1 group-title="",都市剧场
+https://live.goodiptv.club/api/cqyx.php?id=dsjcHD
+#EXTINF:-1 group-title="",动漫秀场
+https://live.goodiptv.club/api/cqyx.php?id=dmxcHD
+#EXTINF:-1 group-title="",风云剧场
+https://live.goodiptv.club/api/cqyx.php?id=fyjcHD
+#EXTINF:-1 group-title="",风云剧场
+http://111.20.40.160/PLTV/88888893/224/3221226950/index.m3u8
+#EXTINF:-1 group-title="",风云剧场
+http://111.20.40.162/PLTV/88888893/224/3221226950/index.m3u8
+#EXTINF:-1 group-title="",风云剧场
+http://111.20.40.163/PLTV/88888893/224/3221226950/index.m3u8
+#EXTINF:-1 group-title="",风云剧场
+http://111.20.40.164/PLTV/88888893/224/3221226950/index.m3u8
+#EXTINF:-1 group-title="",风云剧场
+http://111.20.40.165/PLTV/88888893/224/3221226950/index.m3u8
+#EXTINF:-1 group-title="",怀旧剧场
+https://live.goodiptv.club/api/cqyx.php?id=hjjcHD
+#EXTINF:-1 group-title="",怀旧剧场
+http://111.20.40.160/PLTV/88888893/224/3221226972/index.m3u8
+#EXTINF:-1 group-title="",怀旧剧场
+http://111.20.40.162/PLTV/88888893/224/3221226972/index.m3u8
+#EXTINF:-1 group-title="",怀旧剧场
+http://111.20.40.163/PLTV/88888893/224/3221226972/index.m3u8
+#EXTINF:-1 group-title="",风云音乐
+https://live.goodiptv.club/api/cqyx.php?id=fyyyHD
+#EXTINF:-1 group-title="",风云音乐
+http://111.20.40.162/PLTV/88888893/224/3221226953/index.m3u8
+#EXTINF:-1 group-title="",风云音乐
+http://111.20.40.163/PLTV/88888893/224/3221226953/index.m3u8
+#EXTINF:-1 group-title="",风云音乐
+http://111.20.40.164/PLTV/88888893/224/3221226953/index.m3u8
+#EXTINF:-1 group-title="",风云音乐
+http://111.20.40.165/PLTV/88888893/224/3221226953/index.m3u8
+#EXTINF:-1 group-title="",东森电影
+http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
+#EXTINF:-1 group-title="",东森电影
+http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
+#EXTINF:-1 group-title="",东森电影
+http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
+#EXTINF:-1 group-title="",美亚电影
+http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
+#EXTINF:-1 group-title="",好莱坞电影
+http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
+#EXTINF:-1 group-title="",好莱坞电影
+http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF6F7143280071432800&ct=19211&tsum=c0bc00f05a03eb1bef16741e9fd9737e
+#EXTINF:-1 group-title="",好莱坞电影
+http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
+#EXTINF:-1 group-title="",好莱坞电影
+http://50.7.238.114:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
+#EXTINF:-1 group-title="",好莱坞电影
+http://50.7.238.114:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF6F7143280071432800&ct=19211&tsum=c0bc00f05a03eb1bef16741e9fd9737e
+#EXTINF:-1 group-title="",好莱坞电影
+http://50.7.238.114:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
+#EXTINF:-1 group-title="电影直播,#genre#",周星驰
+https://www.goodiptv.club/huya/11342412
+#EXTINF:-1 group-title="电影直播,#genre#",香港喜剧大全
+https://www.goodiptv.club/huya/23865080
+#EXTINF:-1 group-title="辽宁地方,#genre#",辽宁｜北方
+http://angtv.cc/test/lngd.php?id=071
+#EXTINF:-1 group-title="辽宁地方,#genre#",辽宁｜生活
+http://angtv.cc/test/lngd.php?id=073
+#EXTINF:-1 group-title="辽宁地方,#genre#",辽宁｜体育
+http://angtv.cc/test/lngd.php?id=611
+#EXTINF:-1 group-title="辽宁地方,#genre#",辽宁｜影视
+http://angtv.cc/test/lngd.php?id=070
+#EXTINF:-1 group-title="辽宁地方,#genre#",辽宁｜公共
+http://angtv.cc/test/lngd.php?id=077
+#EXTINF:-1 group-title="辽宁地方,#genre#",辽宁｜公共
+http://angtv.cc/test/lngd.php?id=481
+#EXTINF:-1 group-title="辽宁地方,#genre#",辽宁｜经济
+http://angtv.cc/test/lngd.php?id=480
+#EXTINF:-1 group-title="辽宁地方,#genre#",辽宁｜经济
+http://angtv.cc/test/lngd.php?id=076
+#EXTINF:-1 group-title="辽宁地方,#genre#",辽宁｜沈阳新闻综合
+http://angtv.cc/test/lngd.php?id=059
+#EXTINF:-1 group-title="辽宁地方,#genre#",辽宁｜大连新闻综合
+http://angtv.cc/test/lngd.php?id=273
+#EXTINF:-1 group-title="辽宁地方,#genre#",辽宁｜大连新闻
+http://httplive.slave.bfgd.com.cn:14311/playurl?
