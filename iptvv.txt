@@ -354,7 +354,6 @@ CHC家庭影院,http://hls.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/defaul
 
 都市剧场,https://live.goodiptv.club/api/cqyx.php?id=dsjcHD
 
-风云剧场,http://111.20.40.160/PLTV/88888893/224/3221226950/index.m3u8
 风云剧场,https://live.goodiptv.club/api/cqyx.php?id=fyjcHD
 风云剧场,http://111.20.40.162/PLTV/88888893/224/3221226950/index.m3u8
 风云剧场,http://111.20.40.163/PLTV/88888893/224/3221226950/index.m3u8
@@ -388,9 +387,6 @@ CHC家庭影院,http://hls.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/defaul
 
 
 陈翔六点半,https://live.metshop.top/huya/11274154
-
-武林外传,https://live.metshop.top/yy/1353852605
-武林外传,https://live.metshop.top/huya/21059598
 
 爱情公寓,https://live.metshop.top/huya/11336726
 
