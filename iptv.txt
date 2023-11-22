@@ -3,7 +3,7 @@
 CCTV1,http://221.2.36.34:8888/newlive/live/hls/2/live.m3u8
 CCTV1,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
-CCTC1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV1,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 CCTV1,https://live.goodiptv.club/api/cqyx.php?id=cctv1HD
 CCTV1,http://ldncctvwbndcnc.v.wscdns.com/ldncctvwbnd/ldcctv1_2/index.m3u8
@@ -116,8 +116,8 @@ CCTV5+,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv5SportHD/__op/default/__f/
 CCTV5+,https://live.goodiptv.club/api/cqyx.php?id=cctv5SportHD
 
 CCTV4K,http://ainm.cc/a/play/php/cctv4k.php?id=4khd
-CCTV4K,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
 CCTV4K,http://hls.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
+CCTV4K,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
 
 地方,#genre#
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
@@ -258,14 +258,16 @@ CCTV4K,http://hls.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.
 青海卫视,https://cntv.lat/tv/live.php?auth=231110&id=qinghaiSD
 
 甘肃卫视,http://222.175.159.226:808/hls/202369/index.m3u8
-甘肃卫视，http://jltpc.x3322.net:9901/tsfile/live/0141_1.m3u8?key=txiptv
-甘肃卫视，http://mqiptv.com:8014/ch/gsws/mqlive.m3u8
+甘肃卫视,http://jltpc.x3322.net:9901/tsfile/live/0141_1.m3u8?key=txiptv
+甘肃卫视,http://mqiptv.com:8014/ch/gsws/mqlive.m3u8
 
 内蒙古卫视,http://222.71.90.218:8888/newlive/live/hls/46/live.m3u8
 内蒙古卫视,http://222.175.159.226:808/hls/202366/index.m3u8
 内蒙古卫视,https://cntv.lat/tv/live.php?auth=231110&id=neimengkuSD
 
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
+延边卫视,http://gmxw.7766.org:808/hls/15/index.m3u8
+延边卫视,http://live.ybtvyun.com/video/s10006-28bc40431485/index.m3u8
 
 新疆卫视,http://222.71.90.218:8888/newlive/live/hls/47/live.m3u8
 新疆卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/xinjiangSD/__op/default/__f/index.m3u8
@@ -334,12 +336,17 @@ CHC家庭影院,https://cntv.lat/tv/live.php?auth=231110&id=chcjtyyHD
 
 喜剧3,https://live.metshop.top/yy/1354931495
 
+贺岁1,https://live.metshop.top/huya/11352897
+
+贺岁2,https://live.metshop.top/huya/11601986
+
 沈腾,https://live.metshop.top/huya/11601968
 
 周星驰1,http://tx-screenshots.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
 周星驰1,https://www.goodiptv.club/huya/11342412
 周星驰2,http://maomao.kandiantv.cn/douyu1.php?id=122402
 周星驰3,https://live.metshop.top/yy/1382736808
+周星驰4,https://live.metshop.top/huya/11352894
 
 华语电影,http://maomao.kandiantv.cn/douyu1.php?id=85894
 
@@ -349,6 +356,7 @@ CHC家庭影院,https://cntv.lat/tv/live.php?auth=231110&id=chcjtyyHD
 
 漫威电影2,https://live.metshop.top/yy/1354930233
 
+金庸,https://live.metshop.top/huya/11342435
 
 电视剧直播,#genre#
 陈翔六点半,https://live.metshop.top/huya/11274154
@@ -363,17 +371,18 @@ CHC家庭影院,https://cntv.lat/tv/live.php?auth=231110&id=chcjtyyHD
 
 倚天屠龙记,https://live.metshop.top/yy/1449856066
 倚天屠龙记,https://live.metshop.top/yy/1354755003
+倚天屠龙记TVB,https://live.metshop.top/huya/23734246
 
 天龙八部,https://live.metshop.top/yy/1351814644
 天龙八部,https://live.metshop.top/yy/28996058
+天龙八部,https://live.metshop.top/huya/23903123
 
 神雕侠侣,https://live.metshop.top/yy/1382704651
 神雕侠侣,https://live.metshop.top/yy/1394000563
 
-仙剑奇侠传,https://live.metshop.top/yy/1382749903
+封神榜TVB,https://live.metshop.top/huya/23749096
+封神榜TVB,https://live.metshop.top/huya/29465849
 
 周杰伦MV,https://live.metshop.top/douyu/7537296
 
 海绵宝宝,https://epg.112114.xyz/huya/11352919
-
-
