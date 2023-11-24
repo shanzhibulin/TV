@@ -283,11 +283,13 @@ CCTV风云音乐,http://111.20.40.165/PLTV/88888893/224/3221226953/index.m3u8
 科幻电影,https://live.metshop.top/yy/1354930209
 漫威电影1,https://live.metshop.top/yy/1354932402
 漫威电影2,https://live.metshop.top/yy/1354930233
+国语译制,https://live.metshop.top/2436390
 国语译制,http://epg.112114.xyz/douyu/2436390
 金庸电影,https://live.metshop.top/huya/11342435
 
 电视剧循播,#genre#
 陈翔六点半,https://live.metshop.top/huya/11274154
+吐槽大会,https://live.metshop.top/9236042
 吐槽大会,http://epg.112114.xyz/douyu/9236042
 爱情公寓,https://live.metshop.top/huya/11336726
 家有儿女,https://live.metshop.top/huya/11352872
