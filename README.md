@@ -7,6 +7,8 @@ https://raw.githubusercontent.com/shanzhibulin/TV/main/iptv.txt
 
 https://cdn.jsdelivr.net/gh/shanzhibulin/TV/iptv.txt
 
+https://cdn.jsdelivr.net/gh/shanzhibulin/TV/TTVV.txt
+
 
 
 
