@@ -283,13 +283,13 @@ CCTV风云音乐,http://111.20.40.165/PLTV/88888893/224/3221226953/index.m3u8
 科幻电影,https://live.metshop.top/yy/1354930209
 漫威电影1,https://live.metshop.top/yy/1354932402
 漫威电影2,https://live.metshop.top/yy/1354930233
-国语译制,https://live.metshop.top/2436390
+国语译制,https://openhls-tct.douyucdn2.cn/dyliveflv3a/2436390rFNzsERjR_900.m3u8?txSecret=a771d6346d3675190a0158c0f8490fe9&txTime=656153c6&token=h5-douyu-0-2436390-991df3052168e5b28d136c95433dbf43&did=00000003333&origin=tct&vhost=play4&sid=368737158
 国语译制,http://epg.112114.xyz/douyu/2436390
 金庸电影,https://live.metshop.top/huya/11342435
 
 电视剧循播,#genre#
 陈翔六点半,https://live.metshop.top/huya/11274154
-吐槽大会,https://live.metshop.top/9236042
+吐槽大会,https://openhls-tct.douyucdn2.cn/dyliveflv3a/9236042rrn7FTAPh_2000.m3u8?txSecret=4c2297cecdde5ff7adbdb38de60522f8&txTime=65615476&token=h5-douyu-0-9236042-2a1ec9f1098abfc1f1709718223aa529&did=00000003333&origin=tct&vhost=play4&sid=370116851
 吐槽大会,http://epg.112114.xyz/douyu/9236042
 爱情公寓,https://live.metshop.top/huya/11336726
 家有儿女,https://live.metshop.top/huya/11352872
